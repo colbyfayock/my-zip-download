@@ -2,15 +2,15 @@ import Container from '@/components/Container';
 
 const images = [
   {
-    url: 'https://res.cloudinary.com/spacejelly-tutorials/image/upload/w_800,h_600,c_fill,dpr_2.0,g_auto/v1695151349/my-zip-download/vans_sxzz53.jpg',
+    url: 'https://res.cloudinary.com/fay/image/upload/w_800,h_600,c_fill,dpr_2.0,g_auto/v1695151349/tutorials/my-zip-download/vans_sxzz53.jpg',
     name: 'Vans'
   },
   {
-    url: 'https://res.cloudinary.com/spacejelly-tutorials/image/upload/w_800,h_600,c_fill,dpr_2.0,g_auto/v1695151348/my-zip-download/nike_nyvgjo.jpg',
+    url: 'https://res.cloudinary.com/fay/image/upload/w_800,h_600,c_fill,dpr_2.0,g_auto/v1695151348/tutorials/my-zip-download/nike_nyvgjo.jpg',
     name: 'Nike'
   },
   {
-    url: 'https://res.cloudinary.com/spacejelly-tutorials/image/upload/w_800,h_600,c_fill,dpr_2.0,g_auto/v1695151348/my-zip-download/converse_mzczdd.jpg',
+    url: 'https://res.cloudinary.com/fay/image/upload/w_800,h_600,c_fill,dpr_2.0,g_auto/v1695151348/tutorials/my-zip-download/converse_mzczdd.jpg',
     name: 'Converse'
   }
 ]
